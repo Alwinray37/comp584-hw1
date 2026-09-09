@@ -24,14 +24,9 @@ header{
   text-align: center;
   border-radius: 10px;
 }
-
-#counter {
-  margin: 1.5rem 0;
-}
-
-#count-button {
-  padding: 0.5rem 1rem;
-  cursor: pointer;
+main{
+  max-width: 600px;
+  margin: 0 auto;
 }
 container{
   display: flex;
